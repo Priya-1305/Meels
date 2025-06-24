@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:meal_app/HomePage.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:meal_app/categoryScreen.dart';
+import '../Screens/categoryScreen.dart';
 
 void main() {
   runApp(const MyApp());
